@@ -1,1 +1,1 @@
-The project itself is composed by: main.cpp, token.h, token.cpp
+The project is explained in the document: "Calculator.pdf"
